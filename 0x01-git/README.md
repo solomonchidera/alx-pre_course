@@ -1,2 +1,2 @@
-another directory
+Another directory
 this is an update
